@@ -9,7 +9,7 @@ GitKraken的中文汉化补丁
 原项目:[https://github.com/yk47g/gitkraken-chinese](https://github.com/yk47g/gitkraken-chinese) 许久不更新，所以本人来更新~，如果有后续的版本可以提出来，我看到就会更新翻译~
 # 更新
 
-更新于2024.01.23 适配 9.5.1 版本。
+更新于2024.01.23 适配 9.11.1 版本。
 
 # 原理
 
